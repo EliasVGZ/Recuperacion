@@ -36,6 +36,39 @@ Le voy a cambiar el nombre a la rama "valor_ refrencia" ya que me comí una letr
 
 ![image](https://user-images.githubusercontent.com/113994483/209986639-b8681b98-5dfd-4ce2-b131-2c99d045b266.png)
 
+Me intento mover  a la rama master para mergear y me aparece este error.
+
+![image](https://user-images.githubusercontent.com/113994483/209989207-9cfa638f-6399-426a-8e02-12360b1993f8.png)
+
+git status:
+
+![image](https://user-images.githubusercontent.com/113994483/209989488-2fd08d9b-09d6-40b5-8edf-f6772d9e9534.png)
+
+Envio .idea/workspace.xml a gitignore lo comiteo desde la rama valor_referencia ya que no me deja cambiar y lo pusheo.
+Ahora si me deja cambiarme de rama.
+
+![image](https://user-images.githubusercontent.com/113994483/209989838-f3f7d661-705c-4211-8c28-82f8cc2504d9.png)
+
+Y mergeo la rama valor_referencia con master.
+
+
+![image](https://user-images.githubusercontent.com/113994483/209989936-da44fcb0-3209-406e-8116-6899345d2bc4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
