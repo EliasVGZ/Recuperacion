@@ -55,6 +55,8 @@ Y mergeo la rama valor_referencia con master.
 ![image](https://user-images.githubusercontent.com/113994483/209989936-da44fcb0-3209-406e-8116-6899345d2bc4.png)
 
 
+¿No deberia aparecer todo lo hecho en valor_referencia dentro del src de master?
+
 
 
 
