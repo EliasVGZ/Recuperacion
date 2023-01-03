@@ -21,7 +21,7 @@ public class NumeroAzar {
             num = Integer.parseInt(br.readLine());
             oportunidades--;
             if (num==azar) {
-                System.out.println("LO HAZ ACERTADO");
+                System.out.println("LO HAZ ACERTADO, ERES UN GENIO");
             }
             else if(num>azar){
                 System.out.println("El numero es mayor");
