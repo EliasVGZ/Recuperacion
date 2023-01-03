@@ -78,7 +78,7 @@ Borro la rama valor_referencia para volver a empezar.
 
 ![image](https://user-images.githubusercontent.com/113994483/210400969-5b2e46f9-2e1e-4f5a-bfb3-60e6d3df597e.png)
 
-La vuelvo a crear pero esta vez haciendo push después del merge.
+La vuelvo a crear pero esta vez haciendo push después del merge..
 
 ![image](https://user-images.githubusercontent.com/113994483/210401189-ed9e581a-3d88-4c30-ae0d-3ad1797e1822.png)
 
