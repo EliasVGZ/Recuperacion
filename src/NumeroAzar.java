@@ -14,10 +14,10 @@ public class NumeroAzar {
         int azar = r.nextInt(100)+1;
         System.out.println(azar);
         int num=0;
-        int oportunidades=5;
+        int oportunidades=10;
 
         do{
-            System.out.println("ADIVINA NUMERO ENTRE 0 Y 100, TIENES 5 OPORTUNIDADES");
+            System.out.println("ADIVINA NUMERO ENTRE 0 Y 100, TIENES 10 OPORTUNIDADES");
             num = Integer.parseInt(br.readLine());
             oportunidades--;
             if (num==azar) {
