@@ -57,6 +57,32 @@ Y mergeo la rama valor_referencia con master.
 
 ¿No deberia aparecer todo lo hecho en valor_referencia dentro del src de master?
 
+Hago un pull
+
+![image](https://user-images.githubusercontent.com/113994483/210400221-e5f2767d-812c-49ac-9a08-c572092d7c99.png)
+
+y un push
+
+![image](https://user-images.githubusercontent.com/113994483/210400354-7c517f0b-8222-45b5-b5b0-4380db0c2e4c.png)
+
+Voy a crear una rama nueva con un ejercicio de numeros random llamada numero_azar, comiteo y hago push
+
+![image](https://user-images.githubusercontent.com/113994483/210400518-5d6971d2-41b0-4aa0-8358-05f240f1f4e3.png)
+![image](https://user-images.githubusercontent.com/113994483/210400600-ee0888db-e98c-4c0b-98a5-34cb46a45183.png)
+
+Mergeo con msater y hago un oush, y ahora si me aparecen los commits en master.
+
+![image](https://user-images.githubusercontent.com/113994483/210400838-201b6634-28a8-467a-bb88-28a7d75909ad.png)
+
+Borro la rama valor_referencia para volver a empezar.
+
+![image](https://user-images.githubusercontent.com/113994483/210400969-5b2e46f9-2e1e-4f5a-bfb3-60e6d3df597e.png)
+
+La vuelvo a crear pero esta vez haciendo push después del merge.
+
+![image](https://user-images.githubusercontent.com/113994483/210401189-ed9e581a-3d88-4c30-ae0d-3ad1797e1822.png)
+
+
 
 
 
