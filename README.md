@@ -55,7 +55,6 @@ Y mergeo la rama valor_referencia con master.
 ![image](https://user-images.githubusercontent.com/113994483/209989936-da44fcb0-3209-406e-8116-6899345d2bc4.png)
 
 
-¿No deberia aparecer todo lo hecho en valor_referencia dentro del src de master?
 
 Hago un pull
 
@@ -70,7 +69,7 @@ Voy a crear una rama nueva con un ejercicio de numeros random llamada numero_aza
 ![image](https://user-images.githubusercontent.com/113994483/210400518-5d6971d2-41b0-4aa0-8358-05f240f1f4e3.png)
 ![image](https://user-images.githubusercontent.com/113994483/210400600-ee0888db-e98c-4c0b-98a5-34cb46a45183.png)
 
-Mergeo con msater y hago un oush, y ahora si me aparecen los commits en master.
+Mergeo con master y hago un push, y ahora si me aparecen los commits en master.
 
 ![image](https://user-images.githubusercontent.com/113994483/210400838-201b6634-28a8-467a-bb88-28a7d75909ad.png)
 
@@ -82,7 +81,7 @@ La vuelvo a crear pero esta vez haciendo push después del merge..
 
 ![image](https://user-images.githubusercontent.com/113994483/210401189-ed9e581a-3d88-4c30-ae0d-3ad1797e1822.png)
 
-
+Ahora si ya me aparecen las ramas dentro de master. 
 
 
 
